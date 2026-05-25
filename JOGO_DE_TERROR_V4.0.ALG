@@ -162,7 +162,7 @@ inicio
       escreval("")
       escreval("")
       escreval("                     -> [1] Iniciar ")
-      escreval("                     -> [2] Comtroles")
+      escreval("                     -> [2] Controles")
       escreval("")
 
    fimpara
@@ -513,7 +513,7 @@ inicio
 
    bat <- 100
    andarM <- 0
-   temp <- 35
+   temp <- 0
    tempo_s <- 0
    bateria_b <- 0
    
