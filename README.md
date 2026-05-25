@@ -12,6 +12,23 @@ O principal objetivo do projeto é aplicar conceitos de **lógica de programaç�
 
 # 🛠️ Documentação Técnica
 
+## 🧠 Funcionalidades
+
+- Sistema de escolhas interativas
+- Gameplay baseada em narrativa
+- Eventos de terror psicológico
+- Sistema de menus
+- Aviso de epilepsia inicial
+- Efeitos de transição “glitch”
+- Temporizadores e animações em texto
+- Controle de movimentação de entidades
+- Sistema de portas e andares
+- Procedimentos modularizados
+- Efeitos de mudança de cor no console
+- Sistema de suspense e jumpscares textuais
+
+---
+
 ## 🔹 Linguagem Utilizada
 
 * VisualG (.alg)
@@ -139,40 +156,37 @@ O sistema também utiliza temporizadores (`timer`) para criar:
 
 # ▶️ Manual de Utilização
 
-## Passo 1 – Instalar o VisualG
-
+### 1️⃣ Instale o VisualG
 Baixe e instale o VisualG no computador.
 
 ---
 
-## Passo 2 – Baixar os Arquivos do Projeto
-
+### 2️⃣ Baixe o Projeto
 Faça o download do arquivo:
 
-* `JOGO_DE_TERROR_V3.0.ALG`
+```bash
+JOGO_DE_TERROR_V4.0.ALG
+```
 
 ---
 
-## Passo 3 – Abrir o Código
-
-1. Abra o VisualG.
-2. Clique em **Arquivo → Abrir**.
-3. Selecione o arquivo `.ALG` do projeto.
-
----
-
-## Passo 4 – Executar o Projeto
-
-Para iniciar o jogo:
-
-* Clique em **Executar → Rodar Algoritmo**;
-* Ou pressione a tecla **F9**.
+### 3️⃣ Abra o Arquivo
+1. Abra o VisualG;
+2. Clique em `Arquivo → Abrir`;
+3. Selecione o arquivo do projeto.
 
 ---
 
-## Passo 5 – Jogar
+### 4️⃣ Execute o Jogo
+Para iniciar:
 
-Siga as instruções exibidas no console do VisualG e faça as escolhas disponíveis durante a gameplay.
+- Clique em `Executar → Rodar Algoritmo`;
+- Ou pressione `F9`.
+
+---
+
+### 5️⃣ Jogue
+Siga as instruções exibidas no console e tome decisões durante a gameplay.
 
 ---
 
@@ -180,7 +194,7 @@ Siga as instruções exibidas no console do VisualG e faça as escolhas disponí
 
 ```bash
 📁 jogoParanoia
- ├── JOGO_DE_TERROR_V3.0.ALG
+ ├── JOGO_DE_TERROR_V4.0.ALG
  └── README.md
 ```
 
